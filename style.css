@@ -1,0 +1,14 @@
+
+h2 {
+     background-color: rgb(200, 100, 100);
+     color: rgb(198, 27, 135);
+     
+}
+/* class selector */
+.classselector{
+    background-color: aqua;
+}
+/* id selector */
+#idselector{
+    background-color: chocolate;
+}
